@@ -9,3 +9,4 @@ Badman on 1.18.12
 + XCrystalX skid
 + BadMan Skid
 + Chornos Skid
++ choosen skid 
